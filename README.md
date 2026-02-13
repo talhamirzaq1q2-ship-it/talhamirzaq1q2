@@ -1,4 +1,4 @@
-# # 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on<br><br>High-converting WordPress websites, custom funnels, and automation systems using GoHighLevel for agencies and service-based businesses.<br><br>👯 I’m looking to collaborate on<br><br>WordPress projects, SaaS integrations, marketing automation setups, and white-label development partnerships.<br><br>🤝 I’m looking for help with<br><br>Scaling automation workflows, advanced API integrations, and performance optimization strategies.<br><br>🌱 I’m currently learning<br><br>Advanced JavaScript for modern web apps, AI-powered automation, and conversion-focused UX strategies.<br><br>💬 Ask me about<br><br>WordPress development, GoHighLevel CRM setups, funnel building, website speed optimization, and automation systems.<br><br>⚡ Fun fact<br><br>I enjoy turning messy business processes into clean automated systems that save time and increase revenue.
 
 
